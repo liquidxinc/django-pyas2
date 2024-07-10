@@ -1,5 +1,5 @@
 pyas2lib==1.3.3
 requests==2.25.1
-django>=2.2.18
+django>=4.2.14
 django-health-check
 psycopg2-binary
